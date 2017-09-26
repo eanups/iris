@@ -7,7 +7,7 @@ public class IrisGarden {
 
 
     private String garden[][];
-    private double doubleGarden [][] = new double[REC_SIZE][];
+    // private double doubleGarden [][] = new double[REC_SIZE][];
 
     private double[] sepalLengthArr = new double[REC_SIZE];
     private double[] sepalWidthArr = new double[REC_SIZE];
